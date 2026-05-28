@@ -1,4 +1,5 @@
 # Apoio computacional com IA para mapeamento sistemático em Engenharia de Software
+[![DOI](https://zenodo.org/badge/1252707926.svg)](https://doi.org/10.5281/zenodo.20435912)
 
 Este repositório reúne scripts e notebooks em Python desenvolvidos para apoiar a condução de um mapeamento sistemático da literatura sobre **ferramentas e abordagens para detecção de *code smells* em JavaScript**.
 
