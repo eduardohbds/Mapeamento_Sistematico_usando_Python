@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+
+title: "Mapeamento Sistemático usando Python"
+type: software
+
+authors:
+  - family-names: "Silva"
+    given-names: "Eduardo Henrique Brito da Silva"
+    email: "eduardo.hbds@gmail.com"
+
+abstract: >
+  Scripts developed to support the organization, preprocessing, duplicate removal,
+  screening support, and analysis of studies in a systematic mapping study about
+  tools for detecting code smells in JavaScript and TypeScript.
+
+keywords:
+  - "systematic mapping"
+  - "systematic literature review"
+  - "code smells"
+  - "JavaScript"
+  - "TypeScript"
+  - "Python"
+  - "bibliographic analysis"
+
+license: "MIT"
+
+repository-code: "https://github.com/eduardohbds/Mapeamento_Sistematico_usando_Python"
+
+version: "1.0.0"
+date-released: "2026-05-28"
+
+# After creating a Zenodo DOI, replace the value below.
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX"
+    description: "Archived version of the source code used in the study."
